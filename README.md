@@ -1,4 +1,4 @@
-# Mitron-Bank-Data-Analysis
+# Strategic Insights For Mitron Bank In New Credit Card Line
 Project Details: Mitron Bank wanted better credit cards. We studied spending habits with AtliQ Services and found trends. By making special offers, we aim to make customers happier and more loyal, making Mitron Bank more successful.
 
 In the Mitron Bank Credit Card Expansion, our aim was to diversify offerings and boost market presence.
